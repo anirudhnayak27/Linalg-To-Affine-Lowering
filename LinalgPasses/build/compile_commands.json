@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/src/Transforms",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_HAS_RTTI=0 -I/Users/anirudh/Desktop/MLIR/llvm-project/llvm/include -I/Users/anirudh/Desktop/MLIR/llvm-project/build/include -I/Users/anirudh/Desktop/MLIR/llvm-project/mlir/include -I/Users/anirudh/Desktop/MLIR/llvm-project/build/tools/mlir/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/src -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/src -I/usr/local/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk   -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -funwind-tables -fno-rtti -o CMakeFiles/obj.SamplePasses.dir/LinalgtoAffine.cpp.o -c /Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/src/Transforms/LinalgtoAffine.cpp",
+  "file": "/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/src/Transforms/LinalgtoAffine.cpp",
+  "output": "src/Transforms/CMakeFiles/obj.SamplePasses.dir/LinalgtoAffine.cpp.o"
+},
+{
+  "directory": "/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/tools",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DGTEST_HAS_RTTI=0 -DLLVM_BUILD_STATIC -I/Users/anirudh/Desktop/MLIR/llvm-project/llvm/include -I/Users/anirudh/Desktop/MLIR/llvm-project/build/include -I/Users/anirudh/Desktop/MLIR/llvm-project/mlir/include -I/Users/anirudh/Desktop/MLIR/llvm-project/build/tools/mlir/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/include -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/src -I/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/build/src -isystem /usr/local/include -O3 -DNDEBUG -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk   -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -funwind-tables -fno-rtti -fno-exceptions -funwind-tables -fno-rtti -o CMakeFiles/sample-opt.dir/linalg-opt.cpp.o -c /Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/tools/linalg-opt.cpp",
+  "file": "/Users/anirudh/Desktop/MLIR/LinalgPasses_two/LinalgPasses/tools/linalg-opt.cpp",
+  "output": "tools/CMakeFiles/sample-opt.dir/linalg-opt.cpp.o"
+}
+]
